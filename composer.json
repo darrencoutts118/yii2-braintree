@@ -6,8 +6,8 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Bryan Tan",
-			"email": "bryantan16@gmail.com"
+			"name": "Darren Coutts",
+			"email": "darren.coutts@interhubdigital.com"
 		}
 	],
     "require": {
@@ -16,7 +16,7 @@
     },
 	"autoload": {
 		"psr-4": {
-			"bryglen\\braintree\\": ""
+			"darrencoutts118\\braintree\\": ""
 		}
 	}
 }
